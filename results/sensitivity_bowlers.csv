@@ -1,0 +1,12 @@
+variant,overlap_with_base_top10,spearman,n_eligible_available,top3
+Top 10% LI,4,0.344,23,"FazalHaq Farooqi, Wanindu Hasaranga, Mitchell Santner"
+Top 20% LI,4,0.842,55,"Harpreet Brar, Wanindu Hasaranga, Moeen Ali"
+Top 30% LI,5,0.846,72,"Deepak Chahar, Jacob Duffy, Lungi Ngidi"
+Chases only,5,0.856,36,"Deepak Chahar, Harpreet Brar, Patrick Cummins"
+Overs 7+ only,3,0.575,30,"Wanindu Hasaranga, Harshal Patel, Jason Holder"
+Wicket value x2,9,0.928,66,"Deepak Chahar, Wanindu Hasaranga, Harpreet Brar"
+No opposition down-weight,10,0.999,66,"Deepak Chahar, Harpreet Brar, Harshal Patel"
+IPL only,6,0.875,49,"Lungi Ngidi, Deepak Chahar, Harpreet Brar"
+T20I only,3,0.715,57,"Jacob Duffy, Wanindu Hasaranga, Benjamin Sears"
+Weights 40/40/20,9,0.981,66,"Deepak Chahar, Harpreet Brar, Harshal Patel"
+Level only,8,0.95,66,"Deepak Chahar, Jacob Duffy, Wanindu Hasaranga"

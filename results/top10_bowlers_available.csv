@@ -1,0 +1,11 @@
+,pid,Player,Role,HP_balls,HP_econ,NP_econ,HP_wkts,HP_dot_pct,Matches,Value_HP,Value_NP,Consistency,Delta,PRS,Full_league_rank,Conditional,IPL_share,Top10_boot_pct,Rank_p10_p90
+1,1813,Deepak Chahar,Right-arm medium,374,7.71,9.72,20,43.05,34,5.31,-5.03,54.16,10.34,1.45,6,False,85.56,68.0,1-22
+2,7325,Harpreet Brar,Slow left-arm orthodox,182,7.21,8.47,9,35.16,18,3.65,-1.0,60.12,4.65,1.15,10,False,100.0,57.33,2-18
+3,2261,Harshal Patel,Right-arm medium-fast,443,8.73,9.24,28,33.41,40,4.22,1.39,57.66,2.83,1.13,11,False,72.01,54.67,2-26
+4,27960,Mayank Yadav,Right-arm Fast,139,8.14,9.53,12,54.68,16,4.06,-3.74,49.36,7.81,0.97,13,False,46.76,38.0,1-27
+5,22920,Jacob Duffy,Right-arm fast-medium,272,7.88,9.12,15,45.96,29,4.66,3.15,48.29,1.51,0.86,17,False,12.87,49.33,2-35
+6,4641,Lungi Ngidi,Right-arm Fast,246,8.02,9.28,13,43.5,29,2.74,1.1,58.54,1.64,0.84,18,False,37.8,52.67,2-33
+7,4900,Wanindu Hasaranga,Right-arm Leg-Break,339,8.29,7.69,30,38.35,30,4.24,4.56,49.58,-0.32,0.77,20,False,55.46,45.33,2-36
+8,1566,Mohammed Shami,Right-arm Fast,447,7.67,9.03,24,48.55,46,3.62,-1.82,47.92,5.44,0.77,21,False,97.09,41.0,3-42
+9,5939,Cameron Green,Right-arm medium,206,8.58,9.75,13,36.41,25,1.46,-6.84,53.81,8.29,0.64,24,True,68.93,31.33,5-37
+10,1389,Sean Abbott,Right-arm fast-medium,133,9.3,9.89,11,32.33,15,1.34,-2.18,55.33,3.52,0.52,29,False,6.02,19.67,2-51

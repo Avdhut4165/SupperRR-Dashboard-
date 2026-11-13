@@ -1,0 +1,12 @@
+variant,overlap_with_base_top10,spearman,n_eligible_available,top3
+Top 10% LI,2,0.624,10,"Nicholas Pooran, Rovman Powell, Pathum Nissanka"
+Top 20% LI,7,0.829,43,"Nicholas Pooran, Josh Inglis, Sikandar Raza"
+Top 30% LI,7,0.911,65,"Nicholas Pooran, Reeza Hendricks, Kamindu Mendis"
+Chases only,4,0.837,27,"Nicholas Pooran, Sikandar Raza, Pathum Nissanka"
+Overs 7+ only,4,0.654,17,"Nicholas Pooran, Rovman Powell, Cameron Green"
+Wicket value x2,8,0.919,51,"Reeza Hendricks, Nicholas Pooran, Cameron Green"
+No opposition down-weight,10,0.998,51,"Nicholas Pooran, Reeza Hendricks, Cameron Green"
+IPL only,5,0.894,32,"Nicholas Pooran, Josh Inglis, Rovman Powell"
+T20I only,7,0.829,50,"Reeza Hendricks, Kamindu Mendis, Daryl Mitchell"
+Weights 40/40/20,10,0.979,51,"Nicholas Pooran, Reeza Hendricks, Cameron Green"
+Level only,9,0.937,51,"Nicholas Pooran, Reeza Hendricks, Cameron Green"
